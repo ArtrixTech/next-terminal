@@ -7,8 +7,8 @@
 
     <g>
         <text transform="translate(150 20)" fill="white">
-            <tspan class="name" font-size="48" font-weight="bold" x="0" y="30">NEXT </tspan>
-            <tspan class="name" font-size="48" font-weight="bold" x="0" y="90">TERMINAL</tspan>
+            <tspan class="name" font-size="48" font-weight="bold" x="0" y="30" font-family="Alibaba Puhuiti, Arial">NEXT </tspan>
+            <tspan class="name" font-size="48" font-weight="bold" x="0" y="90" font-family="Alibaba Puhuiti, Arial">TERMINAL</tspan>
         </text>
     </g>
 </svg>
